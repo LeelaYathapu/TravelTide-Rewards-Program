@@ -1,6 +1,6 @@
 # TravelTide-Rewards-Program
-## Tableau Dashboard: https://public.tableau.com/app/profile/leela.yathapu/viz/TravelTideSegmentationRewardsProgram/Dashboard4?publish=yes
-## Video Recording: https://www.loom.com/share/6cb135860994494ba097398429f2441b?sid=0a295b2f-aafb-4b71-aabf-e4e41c6c8c63
+#### Tableau Dashboard: https://public.tableau.com/app/profile/leela.yathapu/viz/TravelTideSegmentationRewardsProgram/Dashboard4?publish=yes
+#### Video Recording: https://www.loom.com/share/6cb135860994494ba097398429f2441b?sid=0a295b2f-aafb-4b71-aabf-e4e41c6c8c63
 
 ## Introduction/Background
 This analysis is conducted to assist Elena Tarrant, Head of Marketing at TravelTide, in designing a personalized rewards program aimed at boosting customer retention. The focus is on selecting the most attractive perks for customers and assigning them to segments based on their specific travel behaviors, spending patterns.
